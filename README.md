@@ -1,0 +1,2 @@
+# 1.Bug-Tracking-Tool-e.g.-JIRA-Trello-Bugzilla-using-Mobile-Action.com--2.-HMS-Quality-Review-Lead
+Track to Manage tools like JIRA, Trello, and Bugzilla. It improves team collaboration and ensures efficient bug resolution with mobile accessibility. Hospital Management System through testing and reviews. It involves test planning, defect analysis, and maintaining software standards for smooth healthcare operations.
